@@ -37,10 +37,10 @@ An annotated bibliography is like a regular bibliography except that it also inc
 ### Tools for your research log
 * Paper and pen
 * Note taking app
-    * Evernote
-    * One Note
-    * Bear Notes
-    * Notion
+    * [Evernote](https://evernote.com/)
+    * [OneNote](https://www.microsoft.com/en-us/microsoft-365/onenote/digital-note-taking-app?ms.url=onenotecom&rtc=1)
+    * [Bear Notes](https://bear.app/)
+    * [Notion](https://www.notion.so/product)
 * Word Processor
 
 
